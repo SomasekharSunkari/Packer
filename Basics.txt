@@ -1,0 +1,7 @@
+ source "amazon-ebs""main"{
+     ami_name = "main-ami"
+ }
+   <BLOCK TYPE> "<BLOCK LABEL>""<BLOCK LABEL>"{
+     # Block body
+     <IDENTIFIER> = <EXPRESSION> # Argument
+ }
