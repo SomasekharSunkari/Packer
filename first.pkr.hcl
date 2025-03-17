@@ -7,6 +7,8 @@ packer {
   }
 }
 
+
+#Packer demo for Generating Customized AMI for the Instances in Aws 
 # variable "region" {}
 # variable "ami_name" {}
 # variable "instance_type" {}
